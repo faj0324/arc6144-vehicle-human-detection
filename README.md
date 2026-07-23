@@ -65,12 +65,8 @@ The extended scripts assign a label to each blob from the width/height ratio of 
 
 The recorded test clips and the annotated result videos are hosted on Google Drive (they're too large to store in the repo):
 
-📁 **[Full dataset & demo folder on Google Drive](https://drive.google.com/drive/folders/132fUkgCWc7iGVwiAMWO8iFYcd4NEzLms?usp=sharing)**
-
-Highlights:
 - [Outdoor — detection result](https://drive.google.com/file/d/1o2attThoY0DidKaWx-g1RIFlJkIIUg5o/view)
 - [Indoor — detection result](https://drive.google.com/file/d/19mB7__B5ejsEM0cV51wZqCmGgxcn5n8i/view)
-- [Screen recording walkthrough](https://drive.google.com/file/d/1QrIOadWS2rzI88VOavSe5OxINohTI6Dn/view)
 
 ## Limitations & possible improvements
 
